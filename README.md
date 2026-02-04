@@ -2,6 +2,8 @@
 
 This repository contains a collection of utility modules for Lightning Web Components.
 
+Unlocked package Id: `04tP6000002SaiXIAS`
+
 ## Error Service (`c/errorService`)
 
 The `reduceErrors` function simplifies error handling by converting various Salesforce error formats into a single, user-friendly string.

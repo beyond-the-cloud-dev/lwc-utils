@@ -1,12 +1,20 @@
 {
   "packageDirectories": [
     {
+      "versionName": "LWC Utils 0.1.0",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "LWC Utils",
+      "versionDescription": ""
     }
   ],
-  "name": "BeyondTheCloud",
-  "namespace": "",
+  "name": "lwc-utils",
+  "namespace": "btcdev",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "57.0"
+  "sourceApiVersion": "65.0",
+  "packageAliases": {
+    "LWC Utils": "0HoP600000001XBKAY",
+    "LWC Utils@0.1.0-1": "04tP6000002SaiXIAS"
+  }
 }
